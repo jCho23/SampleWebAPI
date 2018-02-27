@@ -1,0 +1,11 @@
+/Users/june/Projects/SampleWebAPI/SampleWebAPI/bin/Debug/netcoreapp2.0/SampleWebAPI.deps.json
+/Users/june/Projects/SampleWebAPI/SampleWebAPI/bin/Debug/netcoreapp2.0/SampleWebAPI.runtimeconfig.json
+/Users/june/Projects/SampleWebAPI/SampleWebAPI/bin/Debug/netcoreapp2.0/SampleWebAPI.runtimeconfig.dev.json
+/Users/june/Projects/SampleWebAPI/SampleWebAPI/bin/Debug/netcoreapp2.0/SampleWebAPI.dll
+/Users/june/Projects/SampleWebAPI/SampleWebAPI/bin/Debug/netcoreapp2.0/SampleWebAPI.pdb
+/Users/june/Projects/SampleWebAPI/SampleWebAPI/obj/Debug/netcoreapp2.0/SampleWebAPI.csprojResolveAssemblyReference.cache
+/Users/june/Projects/SampleWebAPI/SampleWebAPI/obj/Debug/netcoreapp2.0/SampleWebAPI.csproj.CoreCompileInputs.cache
+/Users/june/Projects/SampleWebAPI/SampleWebAPI/obj/Debug/netcoreapp2.0/SampleWebAPI.AssemblyInfoInputs.cache
+/Users/june/Projects/SampleWebAPI/SampleWebAPI/obj/Debug/netcoreapp2.0/SampleWebAPI.AssemblyInfo.cs
+/Users/june/Projects/SampleWebAPI/SampleWebAPI/obj/Debug/netcoreapp2.0/SampleWebAPI.dll
+/Users/june/Projects/SampleWebAPI/SampleWebAPI/obj/Debug/netcoreapp2.0/SampleWebAPI.pdb
